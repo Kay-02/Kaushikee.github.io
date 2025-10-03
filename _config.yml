@@ -1,0 +1,11 @@
+title: "Kaushikee"
+description: "Portfolio, Resume, Projects, and Blog"
+theme: jekyll-theme-minima
+# baseurl: 
+# url: "https://<username>.github.io"
+
+# Optional navigation links
+header_pages:
+  - projects.md
+  - blog.md
+  - about.md
